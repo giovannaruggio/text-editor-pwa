@@ -16,7 +16,7 @@ Visit https://text-editor-jate-pwa.herokuapp.com/ and click 'install!' in the to
 
 ## Visuals
 
-<img src="./readme/JATE.jpg" alt="JATE"/>
+<img src="./assets-readme/JATE.jpg" alt="JATE"/>
 
 
 ## Credits
